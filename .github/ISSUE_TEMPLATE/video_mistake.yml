@@ -1,0 +1,48 @@
+name: Video Mistake
+description: File an issue when Patrick made a mistake in the video.
+labels: ["video-bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please ensure that the bug has not already been filed in the issue tracker.
+
+        Thanks for taking the time to report this bug!
+  - type: dropdown
+    attributes:
+      label: Section
+      description: Which Section is this an issue for?
+      multiple: false
+      options:
+        - Section 1 | Remix Favorites List
+        - Section 2 | Remix Party Planning
+        - Section 3 | Remix Buy Me a Coffee
+        - Section 4 | AI Prompting
+        - Section 5 | Python Crash Course (Cyfrin Edition)
+        - Section 6 | web3py Favorites List
+        - Section 7 | Boa Favorites List
+        - Section 8 | Mox Favorites List
+        - Section 9 | Mox Buy Me a Coffee
+        - Section 10 | HTML/JS Basics
+        - Section 11 | Mox Raffle
+        - Section 12 | Mox ERC20 & Fuzzing
+        - Section 13 | Mox NFTs & Encryption
+        - Section 14 | Mox Algorithmic Trading
+        - Section 15 | Mox Stablecoin
+        - Section 16 | Mox Signatures
+        - Section 17 | Mox Upgrades
+        - Section 18 | Mox Security Introduction
+        - Other (please describe)
+    validations:
+      required: true
+  - type: input
+    attributes:
+    attributes:
+      label: Could you please leave a link to the Cyfrin Updraft Lesson (or YouTube video timestamp) where this error occurs? (You can right click a video and "copy video URL at current time")
+      placeholder: "https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-foundry-simple-storage?lesson_format=video"
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: Please include relevant code snippets as well if relevant. Remember to format!
+    validations:
+      required: true
