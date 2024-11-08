@@ -194,8 +194,17 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 # Vyper 101
 ----------------------
 ## Section 1: Welcome to Remix - Favorite's List
+
+💻 Code: [https://github.com/Cyfrin/remix-favorites-cu](https://github.com/Cyfrin/remix-favorites-cu)
+
 ## Section 2: Remix Party Planning
+
+💻 Code: [https://github.com/Cyfrin/remix-party-planning-cu](https://github.com/Cyfrin/remix-party-planning-cu)
+
 ## Section 3: Remix Buy Me A Coffee
+
+💻 Code: [https://github.com/Cyfrin/remix-buy-me-a-coffee-cu](https://github.com/Cyfrin/remix-buy-me-a-coffee-cu)
+
 ## Section 4: AI Prompting, Asking Questions, and Researching
 -----------------------
 
