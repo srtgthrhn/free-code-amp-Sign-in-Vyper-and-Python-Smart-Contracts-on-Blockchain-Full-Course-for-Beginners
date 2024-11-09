@@ -197,6 +197,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 💻 Code: [https://github.com/Cyfrin/remix-favorites-cu](https://github.com/Cyfrin/remix-favorites-cu)
 
+- [Bits & Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)a
+
 ## Section 2: Remix Party Planning
 
 💻 Code: [https://github.com/Cyfrin/remix-party-planning-cu](https://github.com/Cyfrin/remix-party-planning-cu)
