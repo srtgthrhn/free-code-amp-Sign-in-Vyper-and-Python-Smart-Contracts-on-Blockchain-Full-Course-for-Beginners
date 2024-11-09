@@ -77,6 +77,7 @@ Please refer to this for an in-depth explanation of the content:
 - [Section 1: Blockchain Basics](#section-1-blockchain-basics)
 - [Vyper 101](#vyper-101)
   - [Section 1: Welcome to Remix - Favorite's List](#section-1-welcome-to-remix---favorites-list)
+  - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in)
   - [Section 2: Remix Party Planning](#section-2-remix-party-planning)
   - [Section 3: Remix Buy Me A Coffee](#section-3-remix-buy-me-a-coffee)
   - [Section 4: AI Prompting, Asking Questions, and Researching](#section-4-ai-prompting-asking-questions-and-researching)
@@ -197,7 +198,9 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 💻 Code: [https://github.com/Cyfrin/remix-favorites-cu](https://github.com/Cyfrin/remix-favorites-cu)
 
-- [Bits & Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)a
+- [Bits & Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
+- 
+## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract!%0a%0a%20Thanks%20@PatrickAlphaC%2C%20@zksyncdevs%2C%20and%20@cyfrinupdraft!)
 
 ## Section 2: Remix Party Planning
 
