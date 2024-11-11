@@ -78,18 +78,18 @@ Please refer to this for an in-depth explanation of the content:
 - [Vyper 101](#vyper-101)
   - [Section 1: Welcome to Remix - Favorite's List](#section-1-welcome-to-remix---favorites-list)
   - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in)
-  - [Section 2: Remix Party Planning](#section-2-remix-party-planning)
-  - [Section 3: Remix Buy Me A Coffee](#section-3-remix-buy-me-a-coffee)
-  - [Section 4: AI Prompting, Asking Questions, and Researching](#section-4-ai-prompting-asking-questions-and-researching)
+  - [Section 2: Remix Buy Me A Coffee](#section-2-remix-buy-me-a-coffee)
+  - [Section 3: AI Prompting, Asking Questions, and Researching](#section-3-ai-prompting-asking-questions-and-researching)
 - [Moccasin Fundamentals](#moccasin-fundamentals)
   - [Section 1: Welcome to Python!](#section-1-welcome-to-python)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
-  - [Section 5: Moccasin Buy Me A Coffee](#section-5-moccasin-buy-me-a-coffee)
-  - [Section 6: HTML/JS Buy Me A Coffee](#section-6-htmljs-buy-me-a-coffee)
-  - [Section 7: Moccasin Raffle](#section-7-moccasin-raffle)
-  - [Section 8: How to get hired](#section-8-how-to-get-hired)
+  - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
+  - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
+  - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
+  - [Section 8: Moccasin Raffle](#section-8-moccasin-raffle)
+  - [Section 9: How to get hired](#section-9-how-to-get-hired)
 - [Advanced Moccasin](#advanced-moccasin)
   - [Section 1: Moccasin Smart Contract Lottery](#section-1-moccasin-smart-contract-lottery)
   - [Section 2: Moccasin ERC20](#section-2-moccasin-erc20)
@@ -202,15 +202,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - 
 ## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract!%0a%0a%20Thanks%20@PatrickAlphaC%2C%20@zksyncdevs%2C%20and%20@cyfrinupdraft!)
 
-## Section 2: Remix Party Planning
-
-💻 Code: [https://github.com/Cyfrin/remix-party-planning-cu](https://github.com/Cyfrin/remix-party-planning-cu)
-
-## Section 3: Remix Buy Me A Coffee
+## Section 2: Remix Buy Me A Coffee
 
 💻 Code: [https://github.com/Cyfrin/remix-buy-me-a-coffee-cu](https://github.com/Cyfrin/remix-buy-me-a-coffee-cu)
 
-## Section 4: AI Prompting, Asking Questions, and Researching
+## Section 3: AI Prompting, Asking Questions, and Researching
 -----------------------
 
 # Moccasin Fundamentals 
@@ -222,10 +218,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 - [Vyper Conventions](https://github.com/pcaversaccio/snekmate/blob/main/GUIDELINES.md#vyper-conventions)
 
-## Section 5: Moccasin Buy Me A Coffee
-## Section 6: HTML/JS Buy Me A Coffee
-## Section 7: Moccasin Raffle
-## Section 8: How to get hired
+## Section 5: Moccasin Party Planning
+## Section 6: Moccasin Buy Me A Coffee
+## Section 7: HTML/JS Buy Me A Coffee
+## Section 8: Moccasin Raffle
+## Section 9: How to get hired
 -----------------------
 
 # Advanced Moccasin
