@@ -82,6 +82,10 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 3: AI Prompting, Asking Questions, and Researching](#section-3-ai-prompting-asking-questions-and-researching)
 - [Moccasin Fundamentals](#moccasin-fundamentals)
   - [Section 1: Welcome to Python!](#section-1-welcome-to-python)
+    - [Installation \& Setup (MacOS \& Linux)](#installation--setup-macos--linux)
+    - [Windows Setup (WSL)](#windows-setup-wsl)
+    - [Gitpod or CodeSpaces](#gitpod-or-codespaces)
+  - [Local Development Introduction](#local-development-introduction)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
@@ -212,6 +216,37 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 # Moccasin Fundamentals 
 -----------------------
 ## Section 1: Welcome to Python!
+
+
+### Installation & Setup (MacOS & Linux)
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+  - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+- [VSCode Keybindings](https://code.visualstudio.com/docs/getstarted/keybindings)
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [What is a terminal?](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+### Windows Setup (WSL)
+
+- Special Guest [Vasiliy](https://twitter.com/cromewar)
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+  - When working in WSL, use Linux commands instead of Windows commands
+- [TroubleShooting](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+
+> ⚠️ Please use Gitpod as an absolute last resort
+
+### Gitpod or CodeSpaces
+
+- [Gitpod](https://www.gitpod.io/)
+  - **If using this, NEVER share a private key with real money on Gitpod**
+  - Ideally you figure out the MacOS, Linux, or Windows install though
+
+## Local Development Introduction
+
+- `CMD + K` or `CTRL + K` clears the terminal
+- `code .` to open VSCode in a new VSCode window
+
 ## Section 2: Web3.py Favorite's List
 ## Section 3: Titanoboa Favorite's List
 ## Section 4: Moccasin Favorite's List
