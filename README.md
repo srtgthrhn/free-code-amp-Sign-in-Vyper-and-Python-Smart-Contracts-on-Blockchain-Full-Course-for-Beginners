@@ -220,6 +220,8 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 -----------------------
 ## Section 1: Python Crash Course
 
+Python Version: 3.11
+
 Full code: [https://github.com/Cyfrin/python-in-updraft-cu](https://github.com/Cyfrin/python-in-updraft-cu)
 
 ### Google Collab
