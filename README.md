@@ -284,6 +284,9 @@ sudo apt-get install python3.11
 - [uv](https://github.com/astral-sh/uv)
 
 ## Section 2: Web3.py Favorite's List
+
+[💻 Code: https://github.com/Cyfrin/web3py-favorites-cu](https://github.com/Cyfrin/web3py-favorites-cu)
+
 ## Section 3: Titanoboa Favorite's List
 ## Section 4: Moccasin Favorite's List
 
