@@ -81,11 +81,13 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 2: Remix Buy Me A Coffee](#section-2-remix-buy-me-a-coffee)
   - [Section 3: AI Prompting, Asking Questions, and Researching](#section-3-ai-prompting-asking-questions-and-researching)
 - [Moccasin Fundamentals](#moccasin-fundamentals)
-  - [Section 1: Welcome to Python!](#section-1-welcome-to-python)
+  - [Section 1: Python Crash Course](#section-1-python-crash-course)
+    - [Google Collab](#google-collab)
     - [Installation \& Setup (MacOS \& Linux)](#installation--setup-macos--linux)
-    - [Windows Setup (WSL)](#windows-setup-wsl)
+    - [Installation \& Setup (Windows/WSL)](#installation--setup-windowswsl)
     - [Gitpod or CodeSpaces](#gitpod-or-codespaces)
   - [Local Development Introduction](#local-development-introduction)
+    - [Python in Updraft](#python-in-updraft)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
@@ -215,8 +217,11 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 # Moccasin Fundamentals 
 -----------------------
-## Section 1: Welcome to Python!
+## Section 1: Python Crash Course
 
+### Google Collab
+
+- [Completed Code: https://colab.research.google.com/drive/1QHoHoTmJjMXKwnbD-00okxP3supNCvvF?usp=sharing](https://colab.research.google.com/drive/1QHoHoTmJjMXKwnbD-00okxP3supNCvvF?usp=sharing)
 
 ### Installation & Setup (MacOS & Linux)
 
@@ -226,7 +231,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [What is a terminal?](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
-### Windows Setup (WSL)
+### Installation & Setup (Windows/WSL)
 
 - Special Guest [Vasiliy](https://twitter.com/cromewar)
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
@@ -246,6 +251,10 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 - `CMD + K` or `CTRL + K` clears the terminal
 - `code .` to open VSCode in a new VSCode window
+
+### Python in Updraft
+
+- [uv](https://github.com/astral-sh/uv)
 
 ## Section 2: Web3.py Favorite's List
 ## Section 3: Titanoboa Favorite's List
