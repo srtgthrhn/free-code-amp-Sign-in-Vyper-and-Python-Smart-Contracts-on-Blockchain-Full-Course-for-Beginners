@@ -86,6 +86,7 @@ Please refer to this for an in-depth explanation of the content:
     - [Installation \& Setup (MacOS \& Linux)](#installation--setup-macos--linux)
     - [Installation \& Setup (Windows/WSL)](#installation--setup-windowswsl)
     - [Gitpod or CodeSpaces](#gitpod-or-codespaces)
+    - [Install Python (Windows WSL/Linux/Ubuntu)](#install-python-windows-wsllinuxubuntu)
   - [Local Development Introduction](#local-development-introduction)
     - [Python in Updraft](#python-in-updraft)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
@@ -248,6 +249,28 @@ Full code: [https://github.com/Cyfrin/python-in-updraft-cu](https://github.com/C
 - [Gitpod](https://www.gitpod.io/)
   - **If using this, NEVER share a private key with real money on Gitpod**
   - Ideally you figure out the MacOS, Linux, or Windows install though
+
+### Install Python (Windows WSL/Linux/Ubuntu)
+
+To check for python, run:
+
+```bash
+which python
+python --version
+
+which python3
+python3 --version
+```
+
+To install a specific version of python:
+
+```bash
+sudo apt-get update
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt-get update
+sudo apt-get install python3.11
+```
 
 ## Local Development Introduction
 
