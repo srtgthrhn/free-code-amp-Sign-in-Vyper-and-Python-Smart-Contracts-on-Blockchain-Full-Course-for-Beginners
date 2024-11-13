@@ -133,6 +133,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 
 # Resources For This Course
 
+- [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
 - AI Frens
   - [claude.ai](https://claude.ai/)
   - [cursor IDE](https://www.cursor.com/)
@@ -206,15 +207,20 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 💻 Code: [https://github.com/Cyfrin/remix-favorites-cu](https://github.com/Cyfrin/remix-favorites-cu)
 
 - [Bits & Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
-- 
+- [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
+
 ## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract!%0a%0a%20Thanks%20@PatrickAlphaC%2C%20@zksyncdevs%2C%20and%20@cyfrinupdraft!)
 
 ## Section 2: Remix Buy Me A Coffee
 
 💻 Code: [https://github.com/Cyfrin/remix-buy-me-a-coffee-cu](https://github.com/Cyfrin/remix-buy-me-a-coffee-cu)
 
+- [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
+
 ## Section 3: AI Prompting, Asking Questions, and Researching
 -----------------------
+
+No code here!
 
 # Moccasin Fundamentals 
 -----------------------
