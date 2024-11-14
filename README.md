@@ -92,6 +92,7 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
     - [Workshop](#workshop)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
+    - [Workshop](#workshop-1)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
@@ -301,6 +302,13 @@ Do one of the following:
 - Deploy the `favorites.vy` contract to anvil with a different wallet address, and a new encrypted key!
 
 ## Section 3: Titanoboa Favorite's List
+
+[💻 Code: https://github.com/Cyfrin/boa-favorites-cu](https://github.com/Cyfrin/boa-favorites-cu)
+
+### Workshop
+
+Coming soon...
+
 ## Section 4: Moccasin Favorite's List
 
 - [Vyper Conventions](https://github.com/pcaversaccio/snekmate/blob/main/GUIDELINES.md#vyper-conventions)
