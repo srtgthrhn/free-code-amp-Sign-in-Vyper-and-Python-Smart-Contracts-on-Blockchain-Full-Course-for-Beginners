@@ -291,6 +291,10 @@ sudo apt-get install python3.11
 
 - [uv](https://github.com/astral-sh/uv)
 
+- Virtual environments image
+<img src="./images/virtual_environments.png" width="300" alt="Virtual environments diagram">
+
+
 ## Section 2: Web3.py Favorite's List
 
 [💻 Code: https://github.com/Cyfrin/web3py-favorites-cu](https://github.com/Cyfrin/web3py-favorites-cu)
@@ -306,6 +310,8 @@ Do one of the following:
 [💻 Code: https://github.com/Cyfrin/boa-favorites-cu](https://github.com/Cyfrin/boa-favorites-cu)
 
 - [Titanoboa](https://pypi.org/project/titanoboa/)
+- Pyevm image
+<img src="./images/pyevm.png" width="300" alt="pyevm">
 
 ### Workshop
 
@@ -317,6 +323,9 @@ Do one of the following:
 
 ## Section 4: Moccasin Favorite's List
 
+[💻 Code: https://github.com/Cyfrin/mox-favorites-cu](https://github.com/Cyfrin/mox-favorites-cu)
+
+- [moccasin](https://github.com/Cyfrin/moccasin)
 - [Vyper Conventions](https://github.com/pcaversaccio/snekmate/blob/main/GUIDELINES.md#vyper-conventions)
 
 ## Section 5: Moccasin Party Planning
