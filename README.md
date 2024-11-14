@@ -296,7 +296,9 @@ sudo apt-get install python3.11
 
 ## Workshop
 
-Deploy the `favorites.vy` contract to your tenderly RPC URL!
+Do one of the following:
+- Deploy the `favorites.vy` contract to your tenderly RPC URL!
+- Deploy the `favorites.vy` contract to anvil with a different wallet address, and a new encrypted key!
 
 ## Section 3: Titanoboa Favorite's List
 ## Section 4: Moccasin Favorite's List
