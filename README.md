@@ -89,6 +89,7 @@ Please refer to this for an in-depth explanation of the content:
     - [Install Python (Windows WSL/Linux/Ubuntu)](#install-python-windows-wsllinuxubuntu)
   - [Local Development Introduction](#local-development-introduction)
     - [Python in Updraft](#python-in-updraft)
+  - [Workshop](#workshop)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
@@ -288,6 +289,10 @@ sudo apt-get install python3.11
 ### Python in Updraft
 
 - [uv](https://github.com/astral-sh/uv)
+
+## Workshop
+
+Deploy the `favorites.vy` contract to your tenderly RPC URL!
 
 ## Section 2: Web3.py Favorite's List
 
