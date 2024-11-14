@@ -309,7 +309,11 @@ Do one of the following:
 
 ### Workshop
 
-Coming soon...
+1. Create your own contract that you can:
+   1. Deploy to your local anvil instance
+   2. Call `set_bool(boolean)` which which change a variable named `my_bool` to the `boolean` you pass it
+   3. Call `get_bool()` which will return the value of `my_bool`
+2. Deploy to your local tenerly network (if you still have the free trial!)
 
 ## Section 4: Moccasin Favorite's List
 
