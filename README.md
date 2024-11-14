@@ -305,6 +305,8 @@ Do one of the following:
 
 [💻 Code: https://github.com/Cyfrin/boa-favorites-cu](https://github.com/Cyfrin/boa-favorites-cu)
 
+- [Titanoboa](https://pypi.org/project/titanoboa/)
+
 ### Workshop
 
 Coming soon...
