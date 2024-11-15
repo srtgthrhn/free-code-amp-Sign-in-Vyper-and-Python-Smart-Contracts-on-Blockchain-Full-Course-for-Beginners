@@ -98,6 +98,7 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
   - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in-1)
     - [Sign up for Alchemy](#sign-up-for-alchemy)
+    - [Workshop](#workshop-2)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
@@ -342,7 +343,8 @@ uv tool install 'moccasin==0.3.4b2' --prerelease=allow
 - [moccasin](https://github.com/Cyfrin/moccasin)
 - [Vyper Conventions](https://github.com/pcaversaccio/snekmate/blob/main/GUIDELINES.md#vyper-conventions)
 - [homebrew (macos)](https://brew.sh/)
-
+- [Transaction Types (Blog)](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions)
+- [Transaction Types (Video)](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/transaction-types)
 
 ```bash
 wget -O zkvyper <RELEASE_VERSION>
@@ -354,6 +356,12 @@ mv zkvyper /usr/local/bin
 
 ### Sign up for Alchemy
 - [Alchemy](https://alchemy.com/?a=673c802981)
+
+### Workshop
+1. Deploy your contract to your tenderly virtual network
+2. Write your own deploy script, and deploy it to the pyevm network
+3. Write your own deploy script, and deploy it to the eravm network
+4. Write a new test in your testfile, and run it!
 
 ## Section 5: Moccasin Party Planning
 ## Section 6: Moccasin Buy Me A Coffee
