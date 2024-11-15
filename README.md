@@ -96,6 +96,7 @@ Please refer to this for an in-depth explanation of the content:
   - [Moccasin Version](#moccasin-version)
     - [Install command](#install-command)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
+    - [Sign up for Alchemy](#sign-up-for-alchemy)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
@@ -339,6 +340,9 @@ uv tool install 'moccasin==0.3.4b2' --prerelease=allow
 
 - [moccasin](https://github.com/Cyfrin/moccasin)
 - [Vyper Conventions](https://github.com/pcaversaccio/snekmate/blob/main/GUIDELINES.md#vyper-conventions)
+
+### Sign up for Alchemy
+- [Alchemy](https://alchemy.com/?a=673c802981)
 
 ## Section 5: Moccasin Party Planning
 ## Section 6: Moccasin Buy Me A Coffee
