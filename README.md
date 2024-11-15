@@ -11,15 +11,12 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <div align="center">
-<h1> Blockchain Developer, Vyper Smart Contract, & Python Career Path - Powered By AI - Beginner to Expert Course <br>| Moccasin Edition 2025  |</h1>
+<h1> Blockchain Developer, Vyper Smart Contract & Python Career Path - Powered By AI - Beginner to Expert Course</h1>
+
+| Moccasin Edition 2025 |
 
 <p align="center"><strong>Learn smart contract development, and level up your career
 </strong></p>
-
-
-# Blockchain Developer, Vyper Smart Contract, & Python Career Path - Powered By AI - Beginner to Expert Course
-| Moccasin Edition 2024 |
-
 
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
 [![Contributors][contributors-shield]][contributors-url]
@@ -35,8 +32,6 @@
     <br />
 </p>
 
-Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Cyfrin Updraft - Career Path <br>| Powered By AI |<br>| Beginner to Expert Path |<br>| Foundry Edition 2024 |
-
 </div>
 
 This repository houses course resources and [discussions](https://github.com/Cyfrin/moccasin-full-course-cu/discussions) for the course.
@@ -48,7 +43,6 @@ Please refer to this for an in-depth explanation of the content:
 - [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
 - [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
 - [Codehawks](https://codehawks.com) - Smart contracts auditing competitions to help secure web3
-
 
 <p align="center">
 <a href="https://youtu.be/-1GB6m39-rM?si=rImbgmtZZ0M1HA-0" target="_blank">
@@ -66,7 +60,6 @@ Please refer to this for an in-depth explanation of the content:
 
 > All the sections on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
 
-- [Blockchain Developer, Vyper Smart Contract, \& Python Career Path - Powered By AI - Beginner to Expert Course](#blockchain-developer-vyper-smart-contract--python-career-path---powered-by-ai---beginner-to-expert-course)
 - [Required Prerequisites](#required-prerequisites)
 - [Table of Contents](#table-of-contents)
   - [Recommended Tools](#recommended-tools)
@@ -110,7 +103,7 @@ Please refer to this for an in-depth explanation of the content:
     - [Workshop](#workshop-6)
   - [Section 5: Moccasin Five More](#section-5-moccasin-five-more)
     - [Workshop](#workshop-7)
-  - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
+  - [⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)](#️-section-6-moccasin-buy-me-a-coffee-get-here)
     - [Workshop](#workshop-8)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
     - [Workshop](#workshop-9)
@@ -119,33 +112,31 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 9: How to get hired](#section-9-how-to-get-hired)
     - [Workshop](#workshop-11)
 - [Advanced Moccasin](#advanced-moccasin)
-  - [Section 1: Moccasin Smart Contract Lottery](#section-1-moccasin-smart-contract-lottery)
+  - [Section 1: Moccasin ERC20](#section-1-moccasin-erc20)
     - [Workshop](#workshop-12)
-  - [Section 2: Moccasin ERC20](#section-2-moccasin-erc20)
+  - [Section 2: Moccasin NFTs](#section-2-moccasin-nfts)
     - [Workshop](#workshop-13)
-  - [Section 3: Moccasin NFTs](#section-3-moccasin-nfts)
+  - [Section 3: Moccasin DeFi | Algorithmic Trading](#section-3-moccasin-defi--algorithmic-trading)
     - [Workshop](#workshop-14)
-  - [Section 4: Moccasin DeFi | Algorithmic Trading](#section-4-moccasin-defi--algorithmic-trading)
+  - [⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)](#️-section-4-moccasin-defi--stablecoin-get-here)
     - [Workshop](#workshop-15)
-  - [Section 5: Moccasin DeFi | Stablecoin](#section-5-moccasin-defi--stablecoin)
+  - [Section 5: Moccasin Signatures](#section-5-moccasin-signatures)
     - [Workshop](#workshop-16)
-  - [Section 6: Moccasin Signatures](#section-6-moccasin-signatures)
+  - [Section 6: Moccasin Upgrades](#section-6-moccasin-upgrades)
     - [Workshop](#workshop-17)
-  - [Section 7: Moccasin Upgrades](#section-7-moccasin-upgrades)
-    - [Workshop](#workshop-18)
 - [Congratulations](#congratulations)
 - [Thank you](#thank-you)
 
 ## Recommended Tools
 
-- Recommended Testnet: Sepolia
-- Recommended DevOps: [foundry-devops](https://github.com/Cyfrin/foundry-devops)
+- Recommended Testnet: Sepolia (Or Tenderly Virtual Network)
 
 # [Testnet Faucets](https://faucets.chain.link)
 
 If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may be able to wait 10 to 20 minutes and try again to avoid adding the 0.001 ETH on the mainnet.
 
 - Main (Sepolia): <a href="https://cloud.google.com/application/web3/faucet/ethereum/sepolia" target="_blank"> Sepolia GCP Faucet </a>
+- Tenderly Virtual Testnet: <a href="https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin" target="_blank"> Tenderly </a>
 - Alchemy Faucet (Sepolia):<a href="https://sepoliafaucet.com/" target="_blank"> https://sepoliafaucet.com/</a>
 - Infura Faucet (Sepolia):<a href="https://www.infura.io/faucet/sepolia" target="_blank" > https://www.infura.io/faucet/sepolia</a>
 - Chainlink Faucet (Sepolia):<a href="https://faucets.chain.link/sepolia" target="_blank" > https://faucets.chain.link/sepolia</a>
@@ -170,7 +161,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
     - Like ChatGPT, but it searches the web
   - [Google Gemini](https://gemini.google.com/)
   - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
-- [Github Discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions)
+- [Github Discussions](https://github.com/Cyfrin/moccasin-full-course-cu/discussions)
   - Ask questions and chat about the course here!
 - [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
   - Great place for asking technical questions about Ethereum
@@ -497,7 +488,7 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 6: Moccasin Buy Me A Coffee
+## ⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)
 
 ### Workshop
 
@@ -525,43 +516,37 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 # Advanced Moccasin
 -----------------------
-## Section 1: Moccasin Smart Contract Lottery
+## Section 1: Moccasin ERC20
 
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 2: Moccasin ERC20
+## Section 2: Moccasin NFTs 
 
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 3: Moccasin NFTs 
+## Section 3: Moccasin DeFi | Algorithmic Trading
 
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 4: Moccasin DeFi | Algorithmic Trading
+## ⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)
 
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 5: Moccasin DeFi | Stablecoin
+## Section 5: Moccasin Signatures
 
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 6: Moccasin Signatures
-
-### Workshop
-
-Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
-
-## Section 7: Moccasin Upgrades
+## Section 6: Moccasin Upgrades
 
 ### Workshop
 
