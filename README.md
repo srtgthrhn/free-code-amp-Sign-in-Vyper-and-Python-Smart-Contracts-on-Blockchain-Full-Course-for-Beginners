@@ -330,7 +330,7 @@ Do one of the following:
 ### Install command
 
 ```bash
-uv tool install 'moccasin==0.3.4b1' --prerelease=allow
+uv tool install 'moccasin==0.3.4b2' --prerelease=allow
 ```
 
 ## Section 4: Moccasin Favorite's List
