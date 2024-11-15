@@ -48,8 +48,13 @@ Please refer to this for an in-depth explanation of the content:
 - [LinkedIn](https://www.linkedin.com/school/cyfrin-updraft/) - Add Updraft to your learning experiences
 - [Discord](https://discord.gg/cyfrin) - Join a community of 3000+ developers and auditors
 - [Codehawks](https://codehawks.com) - Smart contracts auditing competitions to help secure web3
-<!-- *Lol, my t-shirt is backwards in 2 of them* -->
 
+
+<p align="center">
+<a href="https://youtu.be/-1GB6m39-rM?si=rImbgmtZZ0M1HA-0" target="_blank">
+        <img src="./images/background.jpg" width="750" alt="Python Blockchain Developer, Smart Contract, & Vyper Course - Powered By AI">
+      </a>
+</p>
 
 # Required Prerequisites 
 - [Blockchain Basics](https://updraft.cyfrin.io/courses/blockchain-basics)
@@ -77,7 +82,7 @@ Please refer to this for an in-depth explanation of the content:
 - [Section 1: Blockchain Basics](#section-1-blockchain-basics)
 - [Vyper 101](#vyper-101)
   - [Section 1: Welcome to Remix - Favorite's List](#section-1-welcome-to-remix---favorites-list)
-  - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in)
+    - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in)
     - [Workshop](#workshop)
   - [Section 2: Remix Buy Me A Coffee](#section-2-remix-buy-me-a-coffee)
     - [Workshop](#workshop-1)
@@ -100,22 +105,34 @@ Please refer to this for an in-depth explanation of the content:
   - [Moccasin Version](#moccasin-version)
     - [Install command](#install-command)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
-  - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in-1)
+    - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in-1)
     - [Sign up for Alchemy](#sign-up-for-alchemy)
     - [Workshop](#workshop-6)
-  - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
+  - [Section 5: Moccasin Five More](#section-5-moccasin-five-more)
+    - [Workshop](#workshop-7)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
+    - [Workshop](#workshop-8)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
+    - [Workshop](#workshop-9)
   - [Section 8: Moccasin Raffle](#section-8-moccasin-raffle)
+    - [Workshop](#workshop-10)
   - [Section 9: How to get hired](#section-9-how-to-get-hired)
+    - [Workshop](#workshop-11)
 - [Advanced Moccasin](#advanced-moccasin)
   - [Section 1: Moccasin Smart Contract Lottery](#section-1-moccasin-smart-contract-lottery)
+    - [Workshop](#workshop-12)
   - [Section 2: Moccasin ERC20](#section-2-moccasin-erc20)
+    - [Workshop](#workshop-13)
   - [Section 3: Moccasin NFTs](#section-3-moccasin-nfts)
+    - [Workshop](#workshop-14)
   - [Section 4: Moccasin DeFi | Algorithmic Trading](#section-4-moccasin-defi--algorithmic-trading)
+    - [Workshop](#workshop-15)
   - [Section 5: Moccasin DeFi | Stablecoin](#section-5-moccasin-defi--stablecoin)
+    - [Workshop](#workshop-16)
   - [Section 6: Moccasin Signatures](#section-6-moccasin-signatures)
+    - [Workshop](#workshop-17)
   - [Section 7: Moccasin Upgrades](#section-7-moccasin-upgrades)
+    - [Workshop](#workshop-18)
 - [Congratulations](#congratulations)
 - [Thank you](#thank-you)
 
@@ -220,7 +237,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Bits & Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
 - [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
+### 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
 
 ### Workshop
 
@@ -458,7 +475,7 @@ chmod +x zkvyper
 mv zkvyper /usr/local/bin
 ```
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
+### 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
 
 ### Sign up for Alchemy
 - [Alchemy](https://alchemy.com/?a=673c802981)
@@ -472,22 +489,84 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 3. Write your own deploy script, and deploy it to the eravm network
 4. Write a new test in your testfile, and run it!
 
-## Section 5: Moccasin Party Planning
+## Section 5: Moccasin Five More
+
+[💻 Code: https://github.com/Cyfrin/mox-five-more-cu](https://github.com/Cyfrin/mox-five-more-cu)
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 6: Moccasin Buy Me A Coffee
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 7: HTML/JS Buy Me A Coffee
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 8: Moccasin Raffle
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 9: How to get hired
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 -----------------------
 
 # Advanced Moccasin
 -----------------------
 ## Section 1: Moccasin Smart Contract Lottery
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 2: Moccasin ERC20
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 3: Moccasin NFTs 
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 4: Moccasin DeFi | Algorithmic Trading
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 5: Moccasin DeFi | Stablecoin
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 6: Moccasin Signatures
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 ## Section 7: Moccasin Upgrades
+
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 -----------------------
 
 # Congratulations
