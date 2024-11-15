@@ -78,9 +78,11 @@ Please refer to this for an in-depth explanation of the content:
 - [Vyper 101](#vyper-101)
   - [Section 1: Welcome to Remix - Favorite's List](#section-1-welcome-to-remix---favorites-list)
   - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in)
-  - [Section 2: Remix Buy Me A Coffee](#section-2-remix-buy-me-a-coffee)
     - [Workshop](#workshop)
+  - [Section 2: Remix Buy Me A Coffee](#section-2-remix-buy-me-a-coffee)
+    - [Workshop](#workshop-1)
   - [Section 3: AI Prompting, Asking Questions, and Researching](#section-3-ai-prompting-asking-questions-and-researching)
+    - [Workshop](#workshop-2)
 - [Moccasin Fundamentals](#moccasin-fundamentals)
   - [Section 1: Python Crash Course](#section-1-python-crash-course)
     - [Google Collab](#google-collab)
@@ -89,18 +91,18 @@ Please refer to this for an in-depth explanation of the content:
     - [Gitpod or CodeSpaces](#gitpod-or-codespaces)
     - [Install Python (Windows WSL/Linux/Ubuntu)](#install-python-windows-wsllinuxubuntu)
   - [Local Development Introduction](#local-development-introduction)
-    - [Workshop](#workshop-1)
+    - [Workshop](#workshop-3)
     - [Python in Updraft](#python-in-updraft)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
-    - [Workshop](#workshop-2)
+    - [Workshop](#workshop-4)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
-    - [Workshop](#workshop-3)
+    - [Workshop](#workshop-5)
   - [Moccasin Version](#moccasin-version)
     - [Install command](#install-command)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
   - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in-1)
     - [Sign up for Alchemy](#sign-up-for-alchemy)
-    - [Workshop](#workshop-4)
+    - [Workshop](#workshop-6)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
@@ -220,6 +222,14 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 ## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
 
+### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+1. Create a function called `add` that adds `1` to whatever is in `self.favorite_number`
+2. Have the starting favorite number different from `7`, check to make sure it's the number you set!
+3. (Challenging) Create a new type using the "struct" keyword, and create a function that will save a new variable of that type to a state/storage variable.
+
 ## Section 2: Remix Buy Me A Coffee
 
 💻 Code: [https://github.com/Cyfrin/remix-buy-me-a-coffee-cu](https://github.com/Cyfrin/remix-buy-me-a-coffee-cu)
@@ -227,17 +237,40 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
 
 ### Workshop
-1. Get the price of a different asset using Chainlink price feeds on your fake chain
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+1. (Optional) Get the price of a different asset using Chainlink price feeds on your fake chain
 2. Write a function to get the total amount of funds in the contract
    1. Loop through the array of funders, and how much they've funded!
    2. Try not to just use `self.balance`!
-3. Write a function that allows you to change the owner of the contract
+3. (Challenging!) Write a function that allows you to change the owner of the contract
    1. Hint: You'll need to make sure `OWNER` isn't immutable!
 
 ## Section 3: AI Prompting, Asking Questions, and Researching
 -----------------------
 
 No code here!
+
+### Workshop
+
+Get a good idea for "how good" your AI is. Maybe shop around for an AI you like. Ask them some softball questions to figure out how smart they are. Like:
+
+1. Make a minimal vyper contract
+2. What's the difference between a dynamic array and a fixed sized array?
+3. Here is some vyper code:
+
+```python
+@external
+def add_person(name: String[100], favorite_number: uint256):
+    new_person: Person = Person(favorite_number = favorite_number, name = name)
+    self.list_of_people[self.list_of_people_index] = new_person
+    self.list_of_numbers[self.list_of_people_index] = favorite_number
+    self.list_of_people_index += 1
+    self.name_to_favorite_number[name] = favorite_number
+```
+
+What does it do? 
 
 # Moccasin Fundamentals 
 -----------------------
@@ -304,6 +337,8 @@ sudo apt-get install python3.11
 
 ### Workshop
 
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 Here is your final project, make a function that takes 2 inputs, the first is a year, and the second is a number of days.
 The function should print out either:
 
@@ -369,8 +404,10 @@ Notice how "still" is added to the second sentance, but not the first!
 
 ### Workshop
 
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 Do one of the following:
-- Deploy the `favorites.vy` contract to your tenderly RPC URL!
+- (Optional) Deploy the `favorites.vy` contract to your tenderly RPC URL!
 - Deploy the `favorites.vy` contract to anvil with a different wallet address, and a new encrypted key!
 
 ## Section 3: Titanoboa Favorite's List
@@ -382,6 +419,8 @@ Do one of the following:
 <img src="./images/pyevm.png" width="300" alt="pyevm">
 
 ### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 1. Create your own contract that you can:
    1. Deploy to your local anvil instance
@@ -421,6 +460,9 @@ mv zkvyper /usr/local/bin
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
 ### Workshop
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
 1. Deploy your contract to your tenderly virtual network
 2. Write your own deploy script, and deploy it to the pyevm network
 3. Write your own deploy script, and deploy it to the eravm network
