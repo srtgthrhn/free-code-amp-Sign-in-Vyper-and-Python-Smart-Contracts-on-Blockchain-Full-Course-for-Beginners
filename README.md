@@ -269,8 +269,11 @@ def add_person(name: String[100], favorite_number: uint256):
     self.list_of_people_index += 1
     self.name_to_favorite_number[name] = favorite_number
 ```
-
 What does it do? 
+4. Is this vyper code safe?
+```python
+send(OWNER, self.balance)
+```
 
 # Moccasin Fundamentals 
 -----------------------
