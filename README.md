@@ -93,6 +93,8 @@ Please refer to this for an in-depth explanation of the content:
     - [Workshop](#workshop)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
     - [Workshop](#workshop-1)
+  - [Moccasin Version](#moccasin-version)
+    - [Install command](#install-command)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
@@ -320,6 +322,16 @@ Do one of the following:
    2. Call `set_bool(boolean)` which which change a variable named `my_bool` to the `boolean` you pass it
    3. Call `get_bool()` which will return the value of `my_bool`
 2. Deploy to your local tenerly network (if you still have the free trial!)
+
+## Moccasin Version
+
+`0.3.4b1`
+
+### Install command
+
+```bash
+uv tool install 'moccasin==0.3.4b1' --prerelease=allow
+```
 
 ## Section 4: Moccasin Favorite's List
 
