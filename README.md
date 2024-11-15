@@ -325,7 +325,7 @@ Do one of the following:
 
 ## Moccasin Version
 
-`0.3.4b1`
+`0.3.4b2`
 
 ### Install command
 
