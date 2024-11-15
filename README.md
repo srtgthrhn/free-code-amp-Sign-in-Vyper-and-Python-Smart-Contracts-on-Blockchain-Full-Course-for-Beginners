@@ -96,6 +96,7 @@ Please refer to this for an in-depth explanation of the content:
   - [Moccasin Version](#moccasin-version)
     - [Install command](#install-command)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
+  - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in-1)
     - [Sign up for Alchemy](#sign-up-for-alchemy)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
@@ -349,6 +350,8 @@ chmod +x zkvyper
 mv zkvyper /usr/local/bin
 ```
 
+## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract!%0a%0a%20Thanks%20@PatrickAlphaC%2C%20@zksyncdevs%2C%20and%20@cyfrinupdraft!)
+
 ### Sign up for Alchemy
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
@@ -373,3 +376,5 @@ mv zkvyper /usr/local/bin
 # Congratulations
 
 # Thank you
+
+<!-- export MOCCASIN_KEYSTORE_PATH="$HOME/.moccasin/course_keystores" -->
