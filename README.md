@@ -342,6 +342,13 @@ uv tool install 'moccasin==0.3.4b2' --prerelease=allow
 - [Vyper Conventions](https://github.com/pcaversaccio/snekmate/blob/main/GUIDELINES.md#vyper-conventions)
 - [homebrew (macos)](https://brew.sh/)
 
+
+```bash
+wget -O zkvyper <RELEASE_VERSION>
+chmod +x zkvyper
+mv zkvyper /usr/local/bin
+```
+
 ### Sign up for Alchemy
 - [Alchemy](https://alchemy.com/?a=673c802981)
 
