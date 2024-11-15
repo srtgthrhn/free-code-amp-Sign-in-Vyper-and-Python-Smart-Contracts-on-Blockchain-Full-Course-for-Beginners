@@ -79,6 +79,7 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 1: Welcome to Remix - Favorite's List](#section-1-welcome-to-remix---favorites-list)
   - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in)
   - [Section 2: Remix Buy Me A Coffee](#section-2-remix-buy-me-a-coffee)
+    - [Workshop](#workshop)
   - [Section 3: AI Prompting, Asking Questions, and Researching](#section-3-ai-prompting-asking-questions-and-researching)
 - [Moccasin Fundamentals](#moccasin-fundamentals)
   - [Section 1: Python Crash Course](#section-1-python-crash-course)
@@ -88,17 +89,18 @@ Please refer to this for an in-depth explanation of the content:
     - [Gitpod or CodeSpaces](#gitpod-or-codespaces)
     - [Install Python (Windows WSL/Linux/Ubuntu)](#install-python-windows-wsllinuxubuntu)
   - [Local Development Introduction](#local-development-introduction)
+    - [Workshop](#workshop-1)
     - [Python in Updraft](#python-in-updraft)
   - [Section 2: Web3.py Favorite's List](#section-2-web3py-favorites-list)
-    - [Workshop](#workshop)
+    - [Workshop](#workshop-2)
   - [Section 3: Titanoboa Favorite's List](#section-3-titanoboa-favorites-list)
-    - [Workshop](#workshop-1)
+    - [Workshop](#workshop-3)
   - [Moccasin Version](#moccasin-version)
     - [Install command](#install-command)
   - [Section 4: Moccasin Favorite's List](#section-4-moccasin-favorites-list)
   - [🐸🐦 Tweet Me (add your contract in)!](#-tweet-me-add-your-contract-in-1)
     - [Sign up for Alchemy](#sign-up-for-alchemy)
-    - [Workshop](#workshop-2)
+    - [Workshop](#workshop-4)
   - [Section 5: Moccasin Party Planning](#section-5-moccasin-party-planning)
   - [Section 6: Moccasin Buy Me A Coffee](#section-6-moccasin-buy-me-a-coffee)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
@@ -224,6 +226,14 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 - [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
 
+### Workshop
+1. Get the price of a different asset using Chainlink price feeds on your fake chain
+2. Write a function to get the total amount of funds in the contract
+   1. Loop through the array of funders, and how much they've funded!
+   2. Try not to just use `self.balance`!
+3. Write a function that allows you to change the owner of the contract
+   1. Hint: You'll need to make sure `OWNER` isn't immutable!
+
 ## Section 3: AI Prompting, Asking Questions, and Researching
 -----------------------
 
@@ -291,6 +301,59 @@ sudo apt-get install python3.11
 
 - `CMD + K` or `CTRL + K` clears the terminal
 - `code .` to open VSCode in a new VSCode window
+
+### Workshop
+
+Here is your final project, make a function that takes 2 inputs, the first is a year, and the second is a number of days.
+The function should print out either:
+
+```bash
+Y days after Jan 1st, X, it will still be the year X
+```
+or
+```bash
+Y days after Jan 1st, X, it will be the year Z
+```
+Where:
+- `X` is the starting year, the first input  to the function
+- `Y` is the number of days, the second input to the function
+- `Z` is the year after the X number of days
+
+*Examples*
+
+The function invocations will look like this:
+```python
+what_year(1985, 376)
+```
+Which should print:
+```bash
+376 days after Jan 1st, 1985, it will be the year 1986
+```
+
+Or
+```python
+what_year(1985, 200)
+```
+Which should print:
+```bash
+200 days after Jan 1st, 1985, it will still be the year 1985
+```
+
+Or
+```python
+what_year(1985, 1098)
+```
+Which should print:
+```bash
+1098 days after Jan 1st, 1985, it will be the year 1988
+```
+
+Notice how "still" is added to the second sentance, but not the first!
+
+*Assumptions*
+1. Assume a year is 365 days (but, if you're off by a day or two, that's ok)
+2. Don't worry about leap years
+3. Don't use the datetime package!
 
 ### Python in Updraft
 
