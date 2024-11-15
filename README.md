@@ -215,7 +215,7 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 - [Bits & Bytes](https://www.youtube.com/watch?v=Dnd28lQHquU)
 - [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract!%0a%0a%20Thanks%20@PatrickAlphaC%2C%20@zksyncdevs%2C%20and%20@cyfrinupdraft!)
+## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
 
 ## Section 2: Remix Buy Me A Coffee
 
@@ -350,7 +350,7 @@ chmod +x zkvyper
 mv zkvyper /usr/local/bin
 ```
 
-## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract!%0a%0a%20Thanks%20@PatrickAlphaC%2C%20@zksyncdevs%2C%20and%20@cyfrinupdraft!)
+## 🐸🐦 [Tweet Me (add your contract in)!](https://twitter.com/intent/tweet?text=I%20just%20deployed%20a%20Smart%20Contract%20using%20%40vyperlang!%0a%0a%20Thanks%20%40PatrickAlphaC%2C%20%40zksyncdevs%2C%20and%20%40cyfrinupdraft!)
 
 ### Sign up for Alchemy
 - [Alchemy](https://alchemy.com/?a=673c802981)
