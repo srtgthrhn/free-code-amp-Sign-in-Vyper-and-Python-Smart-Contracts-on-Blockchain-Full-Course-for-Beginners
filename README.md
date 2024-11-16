@@ -484,9 +484,25 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 [💻 Code: https://github.com/Cyfrin/mox-five-more-cu](https://github.com/Cyfrin/mox-five-more-cu)
 
+- `create_copy_of` image
+<img src="./images/create_copy_of.png" width="300" alt="create_copy_of">
+
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+1. Add a second module to `five_more`
+   1. Initialize it
+   2. And call one of the functions from it. For example, in your `five_more` contract:
+   ```python
+   initializes: my_contract
+   
+   def some_func():
+    my_contract.set_bool(True)
+   ```
+2. Try to export functions from 2 different modules
+3. (Challenging) Make a contract that successfully compiles with the `uses` keyword
+4. (Challenging) Make a contract that uses the contract from #3!
 
 ## ⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)
 
