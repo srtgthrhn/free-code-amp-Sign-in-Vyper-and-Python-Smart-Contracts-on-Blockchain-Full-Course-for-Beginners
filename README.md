@@ -511,8 +511,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 - Storage Images:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="./images/storage/1-storage-start.png" width="24%" alt="Storage Start">
-    <img src="./images/storage/2-booleans.png" width="24%" alt="Booleans">
+    <img src="images/storage/1-storage-start.png" width="24%" alt="Storage Start">
+    <img src="images/storage/2-booleans.png" width="24%" alt="Booleans">
     <img src="./images/storage/3-fixed-arrays.png" width="24%" alt="Fixed Arrays">
     <img src="./images/storage/4-dynamic-arrays.png" width="24%" alt="Dynamic Arrays">
 </div>
