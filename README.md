@@ -58,7 +58,7 @@ Please refer to this for an in-depth explanation of the content:
 
 # Table of Contents
 
-> All the sections on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
+> All the sections on this repo are for several courses on the Vyper Developer Career path of Cyfrin Updraft.
 
 <details>
 <summary>Resources</summary>
