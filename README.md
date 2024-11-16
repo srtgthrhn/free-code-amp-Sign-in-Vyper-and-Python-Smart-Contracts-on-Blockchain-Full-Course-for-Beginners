@@ -356,6 +356,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 
 # Resources For This Course
 
+- [vyper-by-example](https://vyper-by-example.org/)
 - [Tenderly](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)
 - AI Frens
   - [claude.ai](https://claude.ai/)
