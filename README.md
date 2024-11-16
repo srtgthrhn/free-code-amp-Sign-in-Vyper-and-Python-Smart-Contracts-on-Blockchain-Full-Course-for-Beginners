@@ -107,6 +107,7 @@ Please refer to this for an in-depth explanation of the content:
     - [Test types](#test-types)
     - [Workshops](#workshops)
       - [Workshop 1](#workshop-1)
+      - [Workshop 2](#workshop-2)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
     - [Workshop](#workshop-8)
   - [Section 8: Moccasin Raffle](#section-8-moccasin-raffle)
@@ -523,6 +524,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
     <img src="./images/storage/6-constants-immutables.png" width="32%" alt="Constants Immutables">
     <img src="./images/storage/7-memory-vars.png" width="32%" alt="Memory Variables">
 </div>
+- [GitHub Docs](https://docs.github.com/en)
+  - [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github?platform=mac)
 
 ### Test types
 There are many types of tests:
@@ -545,6 +548,13 @@ Write a test that:
 - Asserts that:
   - The ending balance of `buy_me_a_coffee` is 0
   - The ending balance of the owner is the addition of all the amounts the funders added
+
+
+#### Workshop 2
+1. Write enough tests to get you 100% code coverage for `buy_me_a_coffee.vy`
+2. Sign up for [Cyfrin Profiles!](https://profiles.cyfrin.io) (And then tweet at me!)
+3. Push your code up to GitHub
+4. Add a new commit up to your GitHub repo
 
 ## Section 7: HTML/JS Buy Me A Coffee
 
