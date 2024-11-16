@@ -128,7 +128,14 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 6: Moccasin Upgrades](#section-6-moccasin-upgrades)
     - [Workshop](#workshop-16)
 - [Congratulations](#congratulations)
+  - [Where do I go now?](#where-do-i-go-now)
+    - [Learning More](#learning-more)
+    - [Community](#community)
+    - [Hackathons](#hackathons)
+- [Disclosures](#disclosures)
+- [Sponsors](#sponsors)
 - [Thank you](#thank-you)
+  - [License](#license)
 
 ## Recommended Tools
 
@@ -550,7 +557,6 @@ Write a test that:
   - The ending balance of `buy_me_a_coffee` is 0
   - The ending balance of the owner is the addition of all the amounts the funders added
 
-
 #### Workshop 2
 1. Write enough tests to get you 100% code coverage for `buy_me_a_coffee.vy`
 2. Sign up for [Cyfrin Profiles!](https://profiles.cyfrin.io) (And then tweet at me!)
@@ -580,10 +586,11 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 -----------------------
-
 # Advanced Moccasin
 -----------------------
 ## Section 1: Moccasin ERC20
+
+💻 Code: [https://github.com/Cyfrin/mox-erc20-cu](https://github.com/Cyfrin/mox-erc20-cu)
 
 ### Workshop
 
@@ -591,11 +598,15 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 ## Section 2: Moccasin NFTs 
 
+💻 Code: [https://github.com/Cyfrin/mox-nft-cu](https://github.com/Cyfrin/mox-nft-cu)
+
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 ## Section 3: Moccasin DeFi | Algorithmic Trading
+
+💻 Code: [https://github.com/Cyfrin/mox-algorithmic-trading-cu](https://github.com/Cyfrin/mox-algorithmic-trading-cu)
 
 ### Workshop
 
@@ -603,11 +614,15 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 ## ⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)
 
+💻 Code: [https://github.com/Cyfrin/mox-stablecoin-cu](https://github.com/Cyfrin/mox-stablecoin-cu)
+
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 ## Section 5: Moccasin Signatures
+
+💻 Code: [https://github.com/Cyfrin/mox-signatures-cu](https://github.com/Cyfrin/mox-signatures-cu)
 
 ### Workshop
 
@@ -615,14 +630,84 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 ## Section 6: Moccasin Upgrades
 
+💻 Code: [https://github.com/Cyfrin/mox-upgrades-cu](https://github.com/Cyfrin/mox-upgrades-cu)
+
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 -----------------------
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+
 # Congratulations
 
+🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed all The Course! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
+
+## Where do I go now?
+
+### Learning More
+
+- [Top 10 learning resources](https://patrickalphac.medium.com/top-10-smart-contract-solidity-developer-learning-resources-cb9d60dd1146)
+- [Patrick Collins](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
+- [CryptoZombies](https://cryptozombies.io/)
+- [Alchemy University](https://www.alchemy.com/dapps/alchemy-university)
+- [Speed Run Ethereum](https://speedrunethereum.com/)
+- [Ethereum.org](https://ethereum.org/en/)
+
+### Community
+
+- [Twitter](https://twitter.com/PatrickAlphaC)
+- [Ethereum Discord](https://ethereum.org/en/)
+- [Reddit ethdev](https://www.reddit.com/r/ethdev/)
+
+### Hackathons
+
+- [ETH Global](https://ethglobal.co/)
+- [CL Hackathon](https://chain.link/hackathon)
+- [ETH India](https://twitter.com/ETHIndiaco)
+
+Be sure to check out project grant programs!
+
+And make today an amazing day!
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Disclosures
+
+Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project.
+
+Because of all this, I have added alternatives to each section where we suggest a tool.
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
+# Sponsors
+
+A huge thank you to our sponsors. These are the groups and technologies
+
+- [Matter Labs (ZKsync)](https://zksync.io/)
+- [Chainlink Labs](https://chainlinklabs.com/)
+- [Optimism RPGF Round 3](https://community.optimism.io/docs/governance/retropgf-3/)
+
 # Thank you
+
+Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Cyfrin & Chain Accel for encouraging this course to come to light, and many, many, many people from the community.
+
+And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
+
+<a href="https://github.com/cyfrin/moccasin-full-course-cu/graphs/contributors">
+
+<img src="https://contrib.rocks/image?repo=cyfrin/moccasin-full-course-cu" />
+
+</a>
+
+## License
+
+Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/foundry-full-course-cu/blob/main/LICENSE).
+
+[![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
+[![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
+[![Cyfrin LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/cyfrin-updraft/)
 
 <!-- export MOCCASIN_KEYSTORE_PATH="$HOME/.moccasin/course_keystores" -->
