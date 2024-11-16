@@ -508,6 +508,20 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 💻 Code: [https://github.com/Cyfrin/mox-buy-me-a-coffee-cu](https://github.com/Cyfrin/mox-buy-me-a-coffee-cu)
 
+- Storage Images:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./images/storage/1-storage-start.png" width="24%" alt="Storage Start">
+    <img src="./images/storage/2-booleans.png" width="24%" alt="Booleans">
+    <img src="./images/storage/3-fixed-arrays.png" width="24%" alt="Fixed Arrays">
+    <img src="./images/storage/4-dynamic-arrays.png" width="24%" alt="Dynamic Arrays">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+    <img src="./images/storage/5-mappings.png" width="32%" alt="Mappings">
+    <img src="./images/storage/6-constants-immutables.png" width="32%" alt="Constants Immutables">
+    <img src="./images/storage/7-memory-vars.png" width="32%" alt="Memory Variables">
+</div>
+
 
 ### Workshop
 
