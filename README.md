@@ -524,6 +524,7 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
     <img src="./images/storage/6-constants-immutables.png" width="32%" alt="Constants Immutables">
     <img src="./images/storage/7-memory-vars.png" width="32%" alt="Memory Variables">
 </div>
+
 - [GitHub Docs](https://docs.github.com/en)
   - [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github?platform=mac)
 
