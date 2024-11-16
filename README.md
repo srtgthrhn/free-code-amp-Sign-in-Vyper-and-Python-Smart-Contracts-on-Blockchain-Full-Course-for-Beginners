@@ -104,6 +104,7 @@ Please refer to this for an in-depth explanation of the content:
   - [Section 5: Moccasin Five More](#section-5-moccasin-five-more)
     - [Workshop](#workshop-7)
   - [⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)](#️-section-6-moccasin-buy-me-a-coffee-get-here)
+    - [Test types](#test-types)
     - [Workshop](#workshop-8)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
     - [Workshop](#workshop-9)
@@ -522,6 +523,14 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
     <img src="./images/storage/7-memory-vars.png" width="32%" alt="Memory Variables">
 </div>
 
+### Test types
+There are many types of tests:
+- Unit: Test a single function/part of your code.
+- Integration: Test how different parts of your code work together.
+- Staging: Test your code in a production-like environment.
+- Forked (Staging): Test your code in a production-like environment, but with a forked version of the blockchain.
+- Fuzz: Test your code with random inputs.
+- Formal Verification: Prove that your code is correct.
 
 ### Workshop
 
