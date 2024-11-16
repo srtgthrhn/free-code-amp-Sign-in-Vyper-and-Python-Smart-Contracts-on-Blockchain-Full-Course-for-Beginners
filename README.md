@@ -105,26 +105,27 @@ Please refer to this for an in-depth explanation of the content:
     - [Workshop](#workshop-7)
   - [⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)](#️-section-6-moccasin-buy-me-a-coffee-get-here)
     - [Test types](#test-types)
-    - [Workshop](#workshop-8)
+    - [Workshops](#workshops)
+      - [Workshop 1](#workshop-1)
   - [Section 7: HTML/JS Buy Me A Coffee](#section-7-htmljs-buy-me-a-coffee)
-    - [Workshop](#workshop-9)
+    - [Workshop](#workshop-8)
   - [Section 8: Moccasin Raffle](#section-8-moccasin-raffle)
-    - [Workshop](#workshop-10)
+    - [Workshop](#workshop-9)
   - [Section 9: How to get hired](#section-9-how-to-get-hired)
-    - [Workshop](#workshop-11)
+    - [Workshop](#workshop-10)
 - [Advanced Moccasin](#advanced-moccasin)
   - [Section 1: Moccasin ERC20](#section-1-moccasin-erc20)
-    - [Workshop](#workshop-12)
+    - [Workshop](#workshop-11)
   - [Section 2: Moccasin NFTs](#section-2-moccasin-nfts)
-    - [Workshop](#workshop-13)
+    - [Workshop](#workshop-12)
   - [Section 3: Moccasin DeFi | Algorithmic Trading](#section-3-moccasin-defi--algorithmic-trading)
-    - [Workshop](#workshop-14)
+    - [Workshop](#workshop-13)
   - [⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)](#️-section-4-moccasin-defi--stablecoin-get-here)
-    - [Workshop](#workshop-15)
+    - [Workshop](#workshop-14)
   - [Section 5: Moccasin Signatures](#section-5-moccasin-signatures)
-    - [Workshop](#workshop-16)
+    - [Workshop](#workshop-15)
   - [Section 6: Moccasin Upgrades](#section-6-moccasin-upgrades)
-    - [Workshop](#workshop-17)
+    - [Workshop](#workshop-16)
 - [Congratulations](#congratulations)
 - [Thank you](#thank-you)
 
@@ -532,9 +533,18 @@ There are many types of tests:
 - Fuzz: Test your code with random inputs.
 - Formal Verification: Prove that your code is correct.
 
-### Workshop
+### Workshops
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+#### Workshop 1
+
+Write a test that:
+- Funds the contract with 10 different funders
+- Withdraws the funds using the owner
+- Asserts that:
+  - The ending balance of `buy_me_a_coffee` is 0
+  - The ending balance of the owner is the addition of all the amounts the funders added
 
 ## Section 7: HTML/JS Buy Me A Coffee
 
