@@ -60,6 +60,200 @@ Please refer to this for an in-depth explanation of the content:
 
 > All the sections on this repo are for several courses on the Solidity Developer Career path of Cyfrin Updraft.
 
+<details>
+<summary>Resources</summary>
+<ol>
+  <li><a href="#required-prerequisites">Required Prerequisites</a></li>
+  <li><a href="#table-of-contents">Table of Contents</a>
+    <ul>
+      <li><a href="#recommended-tools">Recommended Tools</a></li>
+    </ul>
+  </li>
+  <li><a href="#testnet-faucets">Testnet Faucets</a>
+    <ul>
+      <li><a href="#chainlist">Chainlist</a></li>
+    </ul>
+  </li>
+  <li><a href="#resources-for-this-course">Resources For This Course</a></li>
+  <li><a href="#bonus-nfts">Bonus NFTs</a>
+    <ul>
+      <li><a href="#important-notes-for-zksync">Important Notes for ZKsync</a></li>
+      <li><a href="#bridging-to-zksync">Bridging to ZKsync</a></li>
+    </ul>
+  </li>
+</ol>
+</details>
+
+<details>
+<summary>Welcome & Course Introduction</summary>
+<ol>
+  <li><a href="#welcome-to-the-course-repo">Welcome to the Course Repo</a>
+    <ul>
+      <li><a href="#best-practices">Best Practices</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-0-welcome-to-the-course">Section 0: Welcome to the Course!</a></li>
+  <li><a href="#section-1-blockchain-basics">Section 1: Blockchain Basics</a></li>
+</ol>
+</details>
+
+<details>
+<summary>Vyper 101</summary>
+<ol>
+  <li><a href="#section-1-welcome-to-remix---favorites-list">Section 1: Welcome to Remix - Favorite's List</a>
+    <ul>
+      <li><a href="#-tweet-me-add-your-contract-in">🐸🐦 Tweet Me (add your contract in)!</a></li>
+      <li><a href="#workshop">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-2-remix-buy-me-a-coffee">Section 2: Remix Buy Me A Coffee</a>
+    <ul>
+      <li><a href="#workshop-1">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-3-ai-prompting-asking-questions-and-researching">Section 3: AI Prompting, Asking Questions, and Researching</a>
+    <ul>
+      <li><a href="#workshop-2">Workshop</a></li>
+    </ul>
+  </li>
+</ol>
+</details>
+
+<details>
+<summary>Moccasin Fundamentals</summary>
+<ol>
+  <li><a href="#section-1-python-crash-course">Section 1: Python Crash Course</a>
+    <ul>
+      <li><a href="#google-collab">Google Collab</a></li>
+      <li><a href="#installation--setup-macos--linux">Installation & Setup (MacOS & Linux)</a></li>
+      <li><a href="#installation--setup-windowswsl">Installation & Setup (Windows/WSL)</a></li>
+      <li><a href="#gitpod-or-codespaces">Gitpod or CodeSpaces</a></li>
+      <li><a href="#install-python-windows-wsllinuxubuntu">Install Python (Windows WSL/Linux/Ubuntu)</a></li>
+    </ul>
+  </li>
+  <li><a href="#local-development-introduction">Local Development Introduction</a>
+    <ul>
+      <li><a href="#workshop-3">Workshop</a></li>
+      <li><a href="#python-in-updraft">Python in Updraft</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-2-web3py-favorites-list">Section 2: Web3.py Favorite's List</a>
+    <ul>
+      <li><a href="#workshop-4">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-3-titanoboa-favorites-list">Section 3: Titanoboa Favorite's List</a>
+    <ul>
+      <li><a href="#workshop-5">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#moccasin-version">Moccasin Version</a>
+    <ul>
+      <li><a href="#install-command">Install command</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-4-moccasin-favorites-list">Section 4: Moccasin Favorite's List</a>
+    <ul>
+      <li><a href="#-tweet-me-add-your-contract-in-1">🐸🐦 Tweet Me (add your contract in)!</a></li>
+      <li><a href="#sign-up-for-alchemy">Sign up for Alchemy</a></li>
+      <li><a href="#workshop-6">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-5-moccasin-five-more">Section 5: Moccasin Five More</a>
+    <ul>
+      <li><a href="#workshop-7">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#️-section-6-moccasin-buy-me-a-coffee-get-here">⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)</a>
+    <ul>
+      <li><a href="#test-types">Test types</a></li>
+      <li><a href="#workshops">Workshops</a>
+        <ul>
+          <li><a href="#workshop-1">Workshop 1</a></li>
+          <li><a href="#workshop-2">Workshop 2</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#section-7-htmljs-buy-me-a-coffee">Section 7: HTML/JS Buy Me A Coffee</a>
+    <ul>
+      <li><a href="#workshop-8">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-8-moccasin-raffle">Section 8: Moccasin Raffle</a>
+    <ul>
+      <li><a href="#workshop-9">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-9-how-to-get-hired">Section 9: How to get hired</a>
+    <ul>
+      <li><a href="#workshop-10">Workshop</a></li>
+    </ul>
+  </li>
+</ol>
+</details>
+
+<details>
+<summary>Advanced Moccasin</summary>
+<ol>
+  <li><a href="#section-1-moccasin-erc20">Section 1: Moccasin ERC20</a>
+    <ul>
+      <li><a href="#workshop-11">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-2-moccasin-nfts">Section 2: Moccasin NFTs</a>
+    <ul>
+      <li><a href="#workshop-12">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-3-moccasin-defi--algorithmic-trading">Section 3: Moccasin DeFi | Algorithmic Trading</a>
+    <ul>
+      <li><a href="#workshop-13">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#️-section-4-moccasin-defi--stablecoin-get-here">⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)</a>
+    <ul>
+      <li><a href="#workshop-14">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-5-moccasin-signatures">Section 5: Moccasin Signatures</a>
+    <ul>
+      <li><a href="#workshop-15">Workshop</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-6-moccasin-upgrades">Section 6: Moccasin Upgrades</a>
+    <ul>
+      <li><a href="#workshop-16">Workshop</a></li>
+    </ul>
+  </li>
+</ol>
+</details>
+
+<details>
+<summary>Course Completion</summary>
+<ol>
+  <li><a href="#congratulations">Congratulations</a>
+    <ul>
+      <li><a href="#where-do-i-go-now">Where do I go now?</a>
+        <ul>
+          <li><a href="#learning-more">Learning More</a></li>
+          <li><a href="#community">Community</a></li>
+          <li><a href="#hackathons">Hackathons</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#disclosures">Disclosures</a></li>
+  <li><a href="#sponsors">Sponsors</a></li>
+  <li><a href="#thank-you">Thank you</a>
+    <ul>
+      <li><a href="#license">License</a></li>
+    </ul>
+  </li>
+</ol>
+</details>
+
+<!-- 
 - [Required Prerequisites](#required-prerequisites)
 - [Table of Contents](#table-of-contents)
   - [Recommended Tools](#recommended-tools)
@@ -135,7 +329,7 @@ Please refer to this for an in-depth explanation of the content:
 - [Disclosures](#disclosures)
 - [Sponsors](#sponsors)
 - [Thank you](#thank-you)
-  - [License](#license)
+  - [License](#license) -->
 
 ## Recommended Tools
 
