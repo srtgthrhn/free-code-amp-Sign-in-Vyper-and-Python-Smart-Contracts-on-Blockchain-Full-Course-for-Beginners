@@ -75,7 +75,6 @@ Please refer to this for an in-depth explanation of the content:
     </ul>
   </li>
   <li><a href="#resources-for-this-course">Resources For This Course</a></li>
-  <li><a href="#bonus-nfts">Bonus NFTs</a>
     <ul>
       <li><a href="#important-notes-for-zksync">Important Notes for ZKsync</a></li>
       <li><a href="#bridging-to-zksync">Bridging to ZKsync</a></li>
@@ -374,7 +373,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - Decentralized Stack Exchange!
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
-
+<!-- 
 # Bonus NFTs
 
 These are 100% optional to do.
@@ -391,9 +390,13 @@ IF YOU DECIDE TO MINT THE REAL NFT:
    1. In fact... Get good at interacting with wallets from a burner wallet
 2. Read my [Tweet thread on basic wallet safety](https://twitter.com/PatrickAlphaC/status/1663936101650685954)
 3. It might be a good idea to wait till later in the course when we teach you about verifying metamask transactions.
-4. Feel free to mint NFTs on sepolia without worrying about the above
+4. Feel free to mint NFTs on sepolia without worrying about the above -->
 
 ## Bridging to ZKsync
+
+If you want to work with *real* funds on ZKsync for any challenges that we deploy there, you can follow this list. 
+
+*Please do not use real funds unless you are confident of what you are doing, especially when it comes to private key safety.*
 
 1. The process for bridging looks like the following:
    1. Buy ETH (On an exchange like [Coinbase](https://www.coinbase.com/home) or [Kraken](https://www.kraken.com/))
@@ -420,6 +423,9 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Section 0: Welcome to the Course!
+
+- [Welcome to Web3!](https://updraft.cyfrin.io/courses/blockchain-basics)
+
 ----------------------
 
 # Section 1: Blockchain Basics
