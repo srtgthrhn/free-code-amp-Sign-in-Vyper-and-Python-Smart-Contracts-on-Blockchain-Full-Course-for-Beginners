@@ -793,7 +793,7 @@ None, Just enjoy the section!
 
 ## Section 8: Moccasin ERC20
 
-💻 Code: [https://github.com/Cyfrin/mox-raffle-cu](https://github.com/Cyfrin/mox-raffle-cu)
+💻 Code: [https://github.com/Cyfrin/mox-erc20-cu](https://github.com/Cyfrin/mox-erc20-cu)
 
 - [snekmate](https://github.com/pcaversaccio/snekmate)
 - [mamushi](https://github.com/benber86/mamushi)
