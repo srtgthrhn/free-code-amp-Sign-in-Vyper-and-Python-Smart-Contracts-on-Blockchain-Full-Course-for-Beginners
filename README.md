@@ -813,8 +813,10 @@ None, Just enjoy the section!
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
+*If you do the stateful fuzzer challenge, 1 hour is ok!*
+
 - Write tests for your `snek_token` ERC20, try to get to 80% coverage!
-- Write a stateful fuzzer for your ERC20 token!
+- (Challenging!) Write a stateful fuzzer for your ERC20 token!
 
 ### Note
 
