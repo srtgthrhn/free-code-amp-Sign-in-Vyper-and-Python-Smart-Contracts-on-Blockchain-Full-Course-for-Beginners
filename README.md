@@ -827,7 +827,7 @@ The workshop of the next section is what you should do. DO NOT CONTINUE TO ADVAN
 ## Section 9: How to get hired
 
 - ✍️ Aricle: [https://medium.com/cyfrin/how-to-become-a-smart-contract-developer-or-security-researcher-c665e50515c9](https://medium.com/cyfrin/how-to-become-a-smart-contract-developer-or-security-researcher-c665e50515c9)
-- occ🎥 Video: [https://www.youtube.com/watch?v=e1N4aWIJMN0](https://www.youtube.com/watch?v=e1N4aWIJMN0)
+- 🎥 Video: [https://www.youtube.com/watch?v=e1N4aWIJMN0](https://www.youtube.com/watch?v=e1N4aWIJMN0)
 
 #### Steps 
 
