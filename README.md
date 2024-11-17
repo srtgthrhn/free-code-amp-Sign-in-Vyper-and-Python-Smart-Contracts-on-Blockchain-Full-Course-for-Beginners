@@ -424,6 +424,12 @@ IF YOU DECIDE TO MINT THE REAL NFT:
 
 # Section 1: Blockchain Basics
 
+> [!IMPORTANT] Please be sure to go through blockchain basics before coming here! The GitHub repository for that curriculum can be found here:
+
+🐱 GitHub repository : [https://github.com/Cyfrin/blockchain-basics-cu](https://github.com/Cyfrin/blockchain-basics-cu)
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
 # Vyper 101
 ----------------------
 ## Section 1: Welcome to Remix - Favorite's List
@@ -459,6 +465,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
    2. Try not to just use `self.balance`!
 3. (Challenging!) Write a function that allows you to change the owner of the contract
    1. Hint: You'll need to make sure `OWNER` isn't immutable!
+  
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 ## Section 3: AI Prompting, Asking Questions, and Researching
 -----------------------
@@ -488,6 +496,8 @@ What does it do?
 ```python
 send(OWNER, self.balance)
 ```
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 # Moccasin Fundamentals 
 -----------------------
@@ -614,6 +624,7 @@ Notice how "still" is added to the second sentance, but not the first!
 - Virtual environments image
 <img src="./images/virtual_environments.png" width="300" alt="Virtual environments diagram">
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 ## Section 2: Web3.py Favorite's List
 
@@ -626,6 +637,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 Do one of the following:
 - (Optional) Deploy the `favorites.vy` contract to your tenderly RPC URL!
 - Deploy the `favorites.vy` contract to anvil with a different wallet address, and a new encrypted key!
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 ## Section 3: Titanoboa Favorite's List
 
@@ -685,6 +698,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 3. Write your own deploy script, and deploy it to the eravm network
 4. Write a new test in your testfile, and run it!
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
 ## Section 5: Moccasin Five More
 
 [💻 Code: https://github.com/Cyfrin/mox-five-more-cu](https://github.com/Cyfrin/mox-five-more-cu)
@@ -708,6 +723,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 2. Try to export functions from 2 different modules
 3. (Challenging) Make a contract that successfully compiles with the `uses` keyword
 4. (Challenging) Make a contract that uses the contract from #3!
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 ## ⭐️ Section 6: Moccasin Buy Me A Coffee (GET HERE!)
 
@@ -758,6 +775,8 @@ Write a test that:
 3. Push your code up to GitHub
 4. Add a new commit up to your GitHub repo
 
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
 ## Section 7: HTML/JS Buy Me A Coffee
 
 💻 Code: [https://github.com/Cyfrin/html-fund-me-cu](https://github.com/Cyfrin/html-fund-me-cu)
@@ -785,17 +804,51 @@ None, Just enjoy the section!
 
 ### Workshop
 
-Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+No workshop for this section, because the workshop of the next section is what you should do. DO NOT CONTINUE TO ADVANCED MOCCASIN UNTIL YOU'VE COMPLETED THE WORKSHOP OF SECTION 9! You'll only be cheating yourself. 
+
+<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 ## Section 9: How to get hired
+
+✍️ Aricle: [https://medium.com/cyfrin/how-to-become-a-smart-contract-developer-or-security-researcher-c665e50515c9](https://medium.com/cyfrin/how-to-become-a-smart-contract-developer-or-security-researcher-c665e50515c9)
+🎥 Video: [https://www.youtube.com/watch?v=e1N4aWIJMN0](https://www.youtube.com/watch?v=e1N4aWIJMN0)
+
+#### Steps 
+
+1. Write down your reasons why
+2. Do 1 full course [Cyfrin Updraft](https://updraft.cyfrin.io/)
+   1. Get through `Advanced Moccasin`
+3. Apply your knowledge and get real experience
+   1. Hackathons like [ETH Global](https://ethglobal.com/)
+   2. Competitive Audits like [CodeHawks](https://codehawks.cyfrin.io/)
+   3. Make pull requests to open sourced projects
+   4. Build projects and add them to your GitHub
+   5. Update your [Cyfrin Profile](https://profiles.cyfrin.io/)
+4. Apply to jobs, start a company, or freelance
+5. Repeat steps 3 and 4
+   1. You should always be learning more by doing more!
 
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
+#### Prompt
+
+Build a smart contract lottery/raffle yourself, using minimal AI help. You can build a "weak randomness" lotttery, using on-chain randomness (but just know, it's not secure!). Or go the extra mile and use Chainlink VRF 2.5 to build a secure lottery.
+
+You should:
+1. Have test coverage of over 80% of your lines of code
+2. Have a function called `enter_raffle` for people to enter your raffle
+3. The raffle should pick 1 winner after X seconds 
+   1. Have this be a customizable variable
+4. The winner should get the sum of all the entrance fees added by the other participants
+5. Anyone can call a `pick_winner` or `request_winner` function, that will randomly select the winner. 
+
+Here are some example code bases to help you:
+
 - 💻 Weak Randomness Code: [https://github.com/Cyfrin/mox-raffle-cu](https://github.com/Cyfrin/mox-raffle-cu)
 
-- 💻 Chainlink VRF 2 (Not 2.5) Code: [https://github.com/Cyfrin/mox-raffle-cu/tree/e41e3216137ff86c1f663a6730c52dd38586ec12](https://github.com/Cyfrin/mox-raffle-cu/tree/e41e3216137ff86c1f663a6730c52dd38586ec12)
+- 💻 Chainlink VRF 2 (Not 2.5 - this code is slightly outdated) Code: [https://github.com/Cyfrin/mox-raffle-cu/tree/e41e3216137ff86c1f663a6730c52dd38586ec12](https://github.com/Cyfrin/mox-raffle-cu/tree/e41e3216137ff86c1f663a6730c52dd38586ec12)
 
 -----------------------
 # Advanced Moccasin
