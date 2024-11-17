@@ -802,10 +802,11 @@ None, Just enjoy the section!
 - [vheader (rust)](https://github.com/transmissions11/headers-vy)
 - [events](https://www.youtube.com/watch?v=w18c9HLEuBs)
   - Testing Events
-- Scripting
+- Introduction to fuzz testing
+
+### Extra Learnings
 - Random Numbers
 - CEI
-- Introduction to fuzz testing
 - Console
 
 ### Workshop 1
@@ -813,6 +814,7 @@ None, Just enjoy the section!
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 - Write tests for your `snek_token` ERC20, try to get to 80% coverage!
+- Write a stateful fuzzer for your ERC20 token!
 
 ### Note
 
