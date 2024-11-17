@@ -179,7 +179,7 @@ Please refer to this for an in-depth explanation of the content:
       <li><a href="#workshop-8">Workshop</a></li>
     </ul>
   </li>
-  <li><a href="#section-8-moccasin-raffle">Section 8: Moccasin Raffle</a>
+  <li><a href="#section-8-moccasin-erc20">Section 8: Moccasin ERC20</a>
     <ul>
       <li><a href="#workshop-9">Workshop</a></li>
     </ul>
@@ -776,7 +776,7 @@ Write a test that:
   - The ending balance of the owner is the addition of all the amounts the funders added
 
 #### Workshop 2
-1. Write enough tests to get you 100% code coverage for `buy_me_a_coffee.vy`
+1. Write enough tests to get you over 95% code coverage for `buy_me_a_coffee.vy`
 2. Sign up for [Cyfrin Profiles!](https://profiles.cyfrin.io) (And then tweet at me!)
 3. Push your code up to GitHub
 4. Add a new commit up to your GitHub repo
