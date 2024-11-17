@@ -666,12 +666,12 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 ## Moccasin Version
 
-`0.3.4b3`
+`0.3.4b4`
 
 ### Install command
 
 ```bash
-uv tool install 'moccasin==0.3.4b3' --prerelease=allow
+uv tool install 'moccasin==0.3.4b4' --prerelease=allow
 ```
 
 ## Section 4: Moccasin Favorite's List
@@ -808,16 +808,22 @@ None, Just enjoy the section!
 - Introduction to fuzz testing
 - Console
 
-### Workshop
+### Workshop 1
 
-No workshop for this section, because the workshop of the next section is what you should do. DO NOT CONTINUE TO ADVANCED MOCCASIN UNTIL YOU'VE COMPLETED THE WORKSHOP OF SECTION 9! You'll only be cheating yourself. 
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+- Write tests for your `snek_token` ERC20, try to get to 80% coverage!
+
+### Note
+
+The workshop of the next section is what you should do. DO NOT CONTINUE TO ADVANCED MOCCASIN UNTIL YOU'VE COMPLETED THE WORKSHOP OF SECTION 9! You'll only be cheating yourself. 
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
 ## Section 9: How to get hired
 
 - ✍️ Aricle: [https://medium.com/cyfrin/how-to-become-a-smart-contract-developer-or-security-researcher-c665e50515c9](https://medium.com/cyfrin/how-to-become-a-smart-contract-developer-or-security-researcher-c665e50515c9)
-- 🎥 Video: [https://www.youtube.com/watch?v=e1N4aWIJMN0](https://www.youtube.com/watch?v=e1N4aWIJMN0)
+- occ🎥 Video: [https://www.youtube.com/watch?v=e1N4aWIJMN0](https://www.youtube.com/watch?v=e1N4aWIJMN0)
 
 #### Steps 
 
