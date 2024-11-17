@@ -764,11 +764,24 @@ Write a test that:
 
 ### Workshop
 
-Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+None, Just enjoy the section!
 
-## Section 8: Moccasin Raffle
+## Section 8: Moccasin ERC20
 
 💻 Code: [https://github.com/Cyfrin/mox-raffle-cu](https://github.com/Cyfrin/mox-raffle-cu)
+
+- [snekmate](https://github.com/pcaversaccio/snekmate)
+- [mamushi](https://github.com/benber86/mamushi)
+- [ruff](https://github.com/astral-sh/ruff)
+- [vheader (py)](https://github.com/PatrickAlphaC/vheader-py)
+- [vheader (rust)](https://github.com/transmissions11/headers-vy)
+- [events](https://www.youtube.com/watch?v=w18c9HLEuBs)
+  - Testing Events
+- Scripting
+- Random Numbers
+- CEI
+- Introduction to fuzz testing
+- Console
 
 ### Workshop
 
@@ -780,18 +793,15 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
+- 💻 Weak Randomness Code: [https://github.com/Cyfrin/mox-raffle-cu](https://github.com/Cyfrin/mox-raffle-cu)
+
+- 💻 Chainlink VRF 2 (Not 2.5) Code: [https://github.com/Cyfrin/mox-raffle-cu/tree/e41e3216137ff86c1f663a6730c52dd38586ec12](https://github.com/Cyfrin/mox-raffle-cu/tree/e41e3216137ff86c1f663a6730c52dd38586ec12)
+
 -----------------------
 # Advanced Moccasin
 -----------------------
-## Section 1: Moccasin ERC20
 
-💻 Code: [https://github.com/Cyfrin/mox-erc20-cu](https://github.com/Cyfrin/mox-erc20-cu)
-
-### Workshop
-
-Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
-
-## Section 2: Moccasin NFTs 
+## Section 1: Moccasin NFTs 
 
 💻 Code: [https://github.com/Cyfrin/mox-nft-cu](https://github.com/Cyfrin/mox-nft-cu)
 
@@ -799,7 +809,7 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 3: Moccasin DeFi | Algorithmic Trading
+## Section 2: Moccasin DeFi | Algorithmic Trading
 
 💻 Code: [https://github.com/Cyfrin/mox-algorithmic-trading-cu](https://github.com/Cyfrin/mox-algorithmic-trading-cu)
 
@@ -807,7 +817,7 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## ⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)
+## ⭐️ Section 3: Moccasin DeFi | Stablecoin (GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/mox-stablecoin-cu](https://github.com/Cyfrin/mox-stablecoin-cu)
 
@@ -815,7 +825,7 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 5: Moccasin Signatures
+## Section 4: Moccasin Signatures
 
 💻 Code: [https://github.com/Cyfrin/mox-signatures-cu](https://github.com/Cyfrin/mox-signatures-cu)
 
@@ -823,7 +833,7 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-## Section 6: Moccasin Upgrades
+## Section 5: Moccasin Upgrades
 
 💻 Code: [https://github.com/Cyfrin/mox-upgrades-cu](https://github.com/Cyfrin/mox-upgrades-cu)
 
