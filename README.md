@@ -666,12 +666,12 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 ## Moccasin Version
 
-`0.3.4b5`
+`0.3.4`
 
 ### Install command
 
 ```bash
-uv tool install 'moccasin==0.3.4b5' --prerelease=allow
+uv tool install 'moccasin==0.3.4' 
 ```
 
 ## Section 4: Moccasin Favorite's List
