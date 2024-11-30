@@ -195,32 +195,27 @@ Please refer to this for an in-depth explanation of the content:
 <details>
 <summary>Advanced Moccasin</summary>
 <ol>
-  <li><a href="#section-1-moccasin-erc20">Section 1: Moccasin ERC20</a>
-    <ul>
-      <li><a href="#workshop-11">Workshop</a></li>
-    </ul>
-  </li>
-  <li><a href="#section-2-moccasin-nfts">Section 2: Moccasin NFTs</a>
+  <li><a href="#section-1-moccasin-nfts">Section 1: Moccasin NFTs</a>
     <ul>
       <li><a href="#workshop-12">Workshop</a></li>
     </ul>
   </li>
-  <li><a href="#section-3-moccasin-defi--algorithmic-trading">Section 3: Moccasin DeFi | Algorithmic Trading</a>
+  <li><a href="#section-2-moccasin-defi--algorithmic-trading">Section 2: Moccasin DeFi | Algorithmic Trading</a>
     <ul>
       <li><a href="#workshop-13">Workshop</a></li>
     </ul>
   </li>
-  <li><a href="#️-section-4-moccasin-defi--stablecoin-get-here">⭐️ Section 4: Moccasin DeFi | Stablecoin (GET HERE!)</a>
+  <li><a href="#️-section-3-moccasin-defi--stablecoin-get-here">⭐️ Section 3: Moccasin DeFi | Stablecoin (GET HERE!)</a>
     <ul>
       <li><a href="#workshop-14">Workshop</a></li>
     </ul>
   </li>
-  <li><a href="#section-5-moccasin-signatures">Section 5: Moccasin Signatures</a>
+  <li><a href="#section-4-moccasin-signatures">Section 4: Moccasin Signatures</a>
     <ul>
       <li><a href="#workshop-15">Workshop</a></li>
     </ul>
   </li>
-  <li><a href="#section-6-moccasin-upgrades">Section 6: Moccasin Upgrades</a>
+  <li><a href="#section-5-moccasin-upgrades">Section 5: Moccasin Upgrades</a>
     <ul>
       <li><a href="#workshop-16">Workshop</a></li>
     </ul>
