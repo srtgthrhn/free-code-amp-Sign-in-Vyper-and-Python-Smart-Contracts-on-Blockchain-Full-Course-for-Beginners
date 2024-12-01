@@ -889,6 +889,11 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 💻 Code: [https://github.com/Cyfrin/mox-algorithmic-trading-cu](https://github.com/Cyfrin/mox-algorithmic-trading-cu)
 
+<p align="center">
+    <br />
+        <img src="images/defi.png" width="500" alt=""/></a>
+</p>
+
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
