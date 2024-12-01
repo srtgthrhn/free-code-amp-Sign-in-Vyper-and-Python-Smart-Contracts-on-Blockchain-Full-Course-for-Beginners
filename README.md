@@ -871,9 +871,12 @@ Here are some example code bases to help you:
 
 💻 Code: [https://github.com/Cyfrin/mox-nft-cu](https://github.com/Cyfrin/mox-nft-cu)
 
-### Workshop
+### Workshop 1
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+1. Upload your own dog image to IPFS, mint it as an NFT, and then see it in your Metamask!
+2. Write tests to get to at least 80% coverage!
 
 ## Section 2: Moccasin DeFi | Algorithmic Trading
 
