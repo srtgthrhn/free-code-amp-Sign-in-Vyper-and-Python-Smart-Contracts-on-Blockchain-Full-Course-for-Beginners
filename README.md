@@ -898,6 +898,10 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
+1. Copy the code you wrote in your notebook into some scripts
+2. Run your scripts on a Tenderly virtual network, or a forked network
+   1. Start with your target allocations not being correct, but then correct them!
+
 ## ⭐️ Section 3: Moccasin DeFi | Stablecoin (GET HERE!)
 
 💻 Code: [https://github.com/Cyfrin/mox-stablecoin-cu](https://github.com/Cyfrin/mox-stablecoin-cu)
