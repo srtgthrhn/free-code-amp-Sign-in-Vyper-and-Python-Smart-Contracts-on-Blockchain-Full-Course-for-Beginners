@@ -940,6 +940,9 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
+1. Deploy to ZKsync (era test node, sepolia, or tenderly ETH virtual network)
+2. Try to make a bigger merkle tree with 8 leaves!
+
 ## Section 5: Moccasin Upgrades
 
 💻 Code: [https://github.com/Cyfrin/mox-upgrades-cu](https://github.com/Cyfrin/mox-upgrades-cu)
