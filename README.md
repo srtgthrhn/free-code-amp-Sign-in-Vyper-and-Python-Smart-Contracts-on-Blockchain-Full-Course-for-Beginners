@@ -790,6 +790,8 @@ None, Just enjoy the section!
 
 💻 Code: [https://github.com/Cyfrin/mox-erc20-cu](https://github.com/Cyfrin/mox-erc20-cu)
 
+We teach how to build minimal ERC20 tokens like WETH, LINK, USDC, and DAI!
+
 - [snekmate](https://github.com/pcaversaccio/snekmate)
 - [mamushi](https://github.com/benber86/mamushi)
 - [ruff](https://github.com/astral-sh/ruff)
@@ -894,6 +896,8 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
         <img src="images/defi.png" width="500" alt=""/></a>
 </p>
 
+We will rebalance a portfolio using [USDC](https://www.circle.com/usdc) and [WETH](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2).
+
 ### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
@@ -906,9 +910,23 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 💻 Code: [https://github.com/Cyfrin/mox-stablecoin-cu](https://github.com/Cyfrin/mox-stablecoin-cu)
 
-### Workshop
+You'll learn how to build your own stablecoin! Pick collateral like WETH, WBTC, and USDC to make your own stablecoin! Stablecoins one of the most POWERFUL applications on earth!
+
+### Workshop 1
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+1. Get your unit test coverage above 80%!
+
+### Workshop 2
+
+Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
+
+1. Complete your own fuzz tests!
+
+### Workshop 3
+
+1. Look into the audit report, see if you can spot some issues with this codebase yourself!
 
 ## Section 4: Moccasin Signatures
 
