@@ -951,6 +951,9 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
+1. Try to write a contract that has a function selector collision with the proxy
+2. Write a contract where the storage variables change order!
+
 -----------------------
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
