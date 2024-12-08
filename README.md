@@ -661,12 +661,12 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 ## Moccasin Version
 
-`0.3.5`
+`0.3.6`
 
 ### Install command
 
 ```bash
-uv tool install 'moccasin==0.3.5' 
+uv tool install 'moccasin==0.3.6' 
 ```
 
 ## Section 4: Moccasin Favorite's List
