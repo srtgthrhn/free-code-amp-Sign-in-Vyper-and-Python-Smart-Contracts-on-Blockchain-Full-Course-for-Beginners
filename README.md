@@ -168,8 +168,8 @@ Please refer to this for an in-depth explanation of the content:
       <li><a href="#test-types">Test types</a></li>
       <li><a href="#workshops">Workshops</a>
         <ul>
-          <li><a href="#workshop-1">Workshop 1</a></li>
-          <li><a href="#workshop-2">Workshop 2</a></li>
+          <li><a href="#mox-coffee-workshop-1">Workshop 1</a></li>
+          <li><a href="#mox-coffee-workshop-2">Workshop 2</a></li>
         </ul>
       </li>
     </ul>
@@ -761,7 +761,7 @@ There are many types of tests:
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
-#### Workshop 1
+<h4 id="mox-coffee-workshop-1">Workshop 1</h3>
 
 Write a test that:
 - Funds the contract with 10 different funders
@@ -770,7 +770,7 @@ Write a test that:
   - The ending balance of `buy_me_a_coffee` is 0
   - The ending balance of the owner is the addition of all the amounts the funders added
 
-#### Workshop 2
+<h4 id="mox-coffee-workshop-2">Workshop 2</h3>
 1. Write enough tests to get you over 95% code coverage for `buy_me_a_coffee.vy`
 2. Sign up for [Cyfrin Profiles!](https://profiles.cyfrin.io) (And then tweet at me!)
 3. Push your code up to GitHub
