@@ -76,7 +76,6 @@ Please refer to this for an in-depth explanation of the content:
   </li>
   <li><a href="#resources-for-this-course">Resources For This Course</a></li>
     <ul>
-      <li><a href="#important-notes-for-zksync">Important Notes for ZKsync</a></li>
       <li><a href="#bridging-to-zksync">Bridging to ZKsync</a></li>
     </ul>
   </li>
@@ -197,27 +196,30 @@ Please refer to this for an in-depth explanation of the content:
 <ol>
   <li><a href="#section-1-moccasin-nfts">Section 1: Moccasin NFTs</a>
     <ul>
-      <li><a href="#workshop-12">Workshop</a></li>
+      <li><a href="#mox-nfts-workshop-1">Workshop 1</a></li>
+      <li><a href="#mox-nfts-workshop-2">Workshop 2</a></li>
     </ul>
   </li>
   <li><a href="#section-2-moccasin-defi--algorithmic-trading">Section 2: Moccasin DeFi | Algorithmic Trading</a>
     <ul>
-      <li><a href="#workshop-13">Workshop</a></li>
+      <li><a href="#workshop-11">Workshop</a></li>
     </ul>
   </li>
   <li><a href="#️-section-3-moccasin-defi--stablecoin-get-here">⭐️ Section 3: Moccasin DeFi | Stablecoin (GET HERE!)</a>
     <ul>
-      <li><a href="#workshop-14">Workshop</a></li>
+      <li><a href="#mox-stablecoin-workshop-1">Workshop 1</a></li>
+      <li><a href="#mox-stablecoin-workshop-2">Workshop 2</a></li>
+      <li><a href="#mox-stablecoin-workshop-3">Workshop 3</a></li>
     </ul>
   </li>
   <li><a href="#section-4-moccasin-signatures">Section 4: Moccasin Signatures</a>
     <ul>
-      <li><a href="#workshop-15">Workshop</a></li>
+      <li><a href="#workshop-12">Workshop</a></li>
     </ul>
   </li>
   <li><a href="#section-5-moccasin-upgrades">Section 5: Moccasin Upgrades</a>
     <ul>
-      <li><a href="#workshop-16">Workshop</a></li>
+      <li><a href="#workshop-13">Workshop</a></li>
     </ul>
   </li>
 </ol>
@@ -806,7 +808,7 @@ We teach how to build minimal ERC20 tokens like WETH, LINK, USDC, and DAI!
 - CEI
 - Console
 
-### Workshop 1
+### Workshop
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
@@ -873,14 +875,14 @@ Here are some example code bases to help you:
 
 💻 Code: [https://github.com/Cyfrin/mox-nft-cu](https://github.com/Cyfrin/mox-nft-cu)
 
-### Workshop 1
+<h3 id="mox-nfts-workshop-1">Workshop 1</h3>
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 1. Upload your own dog image to IPFS, mint it as an NFT, and then see it in your Metamask!
 2. Write tests to get to at least 80% coverage!
 
-### Workshop 2
+<h3 id="mox-nfts-workshop-2">Workshop 2</h3>
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
@@ -912,19 +914,19 @@ Spend at most 25 minutes on all of these prompts without the aide of AI. If you'
 
 You'll learn how to build your own stablecoin! Pick collateral like WETH, WBTC, and USDC to make your own stablecoin! Stablecoins one of the most POWERFUL applications on earth!
 
-### Workshop 1
+<h3 id="mox-stablecoin-workshop-1">Workshop 1</h3>
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 1. Get your unit test coverage above 80%!
 
-### Workshop 2
+<h3 id="mox-stablecoin-workshop-2">Workshop 2</h3>
 
 Spend at most 25 minutes on all of these prompts without the aide of AI. If you're unable to solve them after 25 minutes, stop, take a break, and then work with an AI or the discussions to help you solve them. Good luck!
 
 1. Complete your own fuzz tests!
 
-### Workshop 3
+<h3 id="mox-stablecoin-workshop-3">Workshop 3</h3>
 
 1. Look into the audit report, see if you can spot some issues with this codebase yourself!
 
