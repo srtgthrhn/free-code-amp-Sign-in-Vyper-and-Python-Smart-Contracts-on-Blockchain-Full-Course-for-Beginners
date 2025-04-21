@@ -15,6 +15,8 @@
 
 | Moccasin Edition 2025 |
 
+_Update: We recently updated everything to work on 0.4.1 of Vyper_
+
 <p align="center"><strong>Learn smart contract development, and level up your career
 </strong></p>
 
