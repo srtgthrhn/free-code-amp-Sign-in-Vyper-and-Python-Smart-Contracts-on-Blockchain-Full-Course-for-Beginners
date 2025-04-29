@@ -9,7 +9,7 @@
 [license-shield]: https://img.shields.io/github/license/cyfrin/moccasin-full-course-cu.svg?style=for-the-badge
 [license-url]: https://github.com/cyfrin/moccasin-full-course-cu/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
+et6yertutry
 <div align="center">
 <h1> Blockchain Developer, Vyper Smart Contract & Python Career Path - Powered By AI - Beginner to Expert Course</h1>
 
